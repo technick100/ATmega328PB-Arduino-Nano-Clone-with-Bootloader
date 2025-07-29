@@ -12,22 +12,16 @@
         {
           "name": "ATmega328PB",
           "architecture": "avr",
-          "version": "0.1",
+          "version": "2.0",
           "category": "ATmega328PB",
           "help": {
-	        "online": ""
+            "online": ""
           },
-          "url": "https://raw.githubusercontent.com/technick100/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/master/atmega328pb-with-bootloader.zip",
-          "archiveFileName": "atmega328pb-with-bootloader.zip",
-
-
-
-          "checksum": "SHA-256:bf84b72adc83718a4759f4a7f8e1d888cb09ed8f32dfa4c8ffc73cfc2b92fd4f",
-          "size": "82687",
-
-          "boards": [
-            {"name": "ATmega328PB"}
-          ],
+          "url": "https://raw.githubusercontent.com/technick100/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/master/atmega328pb-with-bootloader-v2.zip",
+          "archiveFileName": "atmega328pb-with-bootloader-v2.zip",
+          "checksum": "SHA-256:7938b5bcc8a33aad6918b5657fcbae113c7d5dff1b6c33493eb3e33dab0883d7",
+          "size": "89634",
+          "boards": [{ "name": "ATmega328PB" }],
           "toolsDependencies": [
             {
               "packager": "arduino",

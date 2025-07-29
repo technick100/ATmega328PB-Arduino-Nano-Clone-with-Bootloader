@@ -3,7 +3,7 @@
     {
       "name": "ATmega328PB-incl-Bootloader",
       "maintainer": "0x6470",
-      "websiteURL": "https://github.com/0x6470/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/",
+      "websiteURL": "https://github.com/technick100/ATmega328PB-Arduino-Nano-Clone-with-Bootloader",
       "email": "",
       "help": {
         "online": ""
@@ -17,7 +17,7 @@
           "help": {
 	        "online": ""
           },
-          "url": "https://github.com/0x6470/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/raw/master/atmega328pb-with-bootloader.zip",
+          "url": "https://github.com/technick100/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/raw/refs/heads/master/atmega328pb-with-bootloader.zip",
           "archiveFileName": "atmega328pb-with-bootloader.zip",
 
 
@@ -32,7 +32,7 @@
             {
               "packager": "arduino",
               "name": "avrdude",
-              "version": "6.0.1-arduino5"
+              "version": "6.3.0-arduino17"
             }
           ]
         }

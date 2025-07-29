@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "ATmega328PB-incl-Bootloader",
-      "maintainer": "0x6470",
+      "maintainer": "technick",
       "websiteURL": "https://github.com/technick100/ATmega328PB-Arduino-Nano-Clone-with-Bootloader",
       "email": "",
       "help": {
